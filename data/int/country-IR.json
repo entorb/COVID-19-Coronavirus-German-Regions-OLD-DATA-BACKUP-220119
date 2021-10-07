@@ -13035,7 +13035,6 @@
   "Cases_New": 14607,
   "Cases_New_Per_Million": 178,
   "Cases_Per_Million": 68932,
-  "Country": "Iran",
   "Date": "2021-10-04",
   "Days_Since_2nd_Death": 593,
   "Deaths": 121347,
@@ -13046,7 +13045,29 @@
   "Deaths_New_Per_Million": 2.91,
   "Deaths_Per_Cases": 0.022,
   "Deaths_Per_Cases_Last_Week": 0.019,
-  "Deaths_Per_Million": 1483,
+  "Deaths_Per_Million": 1483
+ },
+ {
+  "Cases": 5651961,
+  "Cases_Last_Week": 92270,
+  "Cases_Last_Week_7Day_Percent": -7.6,
+  "Cases_Last_Week_Per_100000": 112.7,
+  "Cases_Last_Week_Per_Million": 1127,
+  "Cases_New": 13226,
+  "Cases_New_Per_Million": 161,
+  "Cases_Per_Million": 69094,
+  "Country": "Iran",
+  "Date": "2021-10-05",
+  "Days_Since_2nd_Death": 594,
+  "Deaths": 121563,
+  "Deaths_Last_Week": 1675,
+  "Deaths_Last_Week_7Day_Percent": -15.5,
+  "Deaths_Last_Week_Per_Million": 20.48,
+  "Deaths_New": 216,
+  "Deaths_New_Per_Million": 2.641,
+  "Deaths_Per_Cases": 0.022,
+  "Deaths_Per_Cases_Last_Week": 0.018,
+  "Deaths_Per_Million": 1486,
   "Population": 83183741
  }
 ]
