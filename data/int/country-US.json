@@ -13119,7 +13119,6 @@
   "Cases_New": 131142,
   "Cases_New_Per_Million": 400,
   "Cases_Per_Million": 135374,
-  "Country": "United States",
   "Date": "2021-10-08",
   "Days_Since_2nd_Death": 585,
   "Deaths": 712693,
@@ -13130,7 +13129,29 @@
   "Deaths_New_Per_Million": 7.702,
   "Deaths_Per_Cases": 0.016,
   "Deaths_Per_Cases_Last_Week": 0.018,
-  "Deaths_Per_Million": 2178,
+  "Deaths_Per_Million": 2178
+ },
+ {
+  "Cases": 44317553,
+  "Cases_Last_Week": 659720,
+  "Cases_Last_Week_7Day_Percent": -12.8,
+  "Cases_Last_Week_Per_100000": 201.6,
+  "Cases_Last_Week_Per_Million": 2016,
+  "Cases_New": 27501,
+  "Cases_New_Per_Million": 84,
+  "Cases_Per_Million": 135458,
+  "Country": "United States",
+  "Date": "2021-10-09",
+  "Days_Since_2nd_Death": 586,
+  "Deaths": 712972,
+  "Deaths_Last_Week": 11823,
+  "Deaths_Last_Week_7Day_Percent": -7.6,
+  "Deaths_Last_Week_Per_Million": 36.14,
+  "Deaths_New": 279,
+  "Deaths_New_Per_Million": 0.853,
+  "Deaths_Per_Cases": 0.016,
+  "Deaths_Per_Cases_Last_Week": 0.018,
+  "Deaths_Per_Million": 2179,
   "Population": 328239523
  }
 ]
