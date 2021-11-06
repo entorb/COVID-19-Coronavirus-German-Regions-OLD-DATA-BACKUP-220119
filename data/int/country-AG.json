@@ -13676,5 +13676,26 @@
   "Deaths_Per_Cases": 0.025,
   "Deaths_Per_Cases_Last_Week": null,
   "Deaths_Per_Million": 1059
+ },
+ {
+  "Cases": 4072,
+  "Cases_Last_Week": 32,
+  "Cases_Last_Week_7Day_Percent": -42.9,
+  "Cases_Last_Week_Per_100000": 33.2,
+  "Cases_Last_Week_Per_Million": 332,
+  "Cases_New": 3,
+  "Cases_New_Per_Million": 31,
+  "Cases_Per_Million": 42290,
+  "Date": "2021-11-04",
+  "Days_Since_2nd_Death": 575,
+  "Deaths": 104,
+  "Deaths_Last_Week": 2,
+  "Deaths_Last_Week_7Day_Percent": -60.0,
+  "Deaths_Last_Week_Per_Million": 20.77,
+  "Deaths_New": 2,
+  "Deaths_New_Per_Million": 20.771,
+  "Deaths_Per_Cases": 0.026,
+  "Deaths_Per_Cases_Last_Week": 0.062,
+  "Deaths_Per_Million": 1080
  }
 ]
