@@ -40,8 +40,31 @@
    "14612",
    "14628",
    "14625",
-   "14627"
+   "14627",
+   "14626"
   ],
-  "title": "Dresden und Umland"
+  "title": "Dresden Krankenhauscluster"
+ },
+ {
+  "id": 6,
+  "lk_ids": [
+   "14713",
+   "14729",
+   "14730",
+   "14627",
+   "14626"
+  ],
+  "title": "Leipzig Krankenhauscluster"
+ },
+ {
+  "id": 7,
+  "lk_ids": [
+   "14511",
+   "14522",
+   "14524",
+   "14521",
+   "14523"
+  ],
+  "title": "Chemnitz Krankenhauscluster"
  }
 ]
