@@ -14085,7 +14085,6 @@
   "Cases_New": 4338,
   "Cases_New_Per_Million": 748,
   "Cases_Per_Million": 79782,
-  "Country": "Denmark",
   "Date": "2021-11-23",
   "Days_Since_2nd_Death": 618,
   "Deaths": 2832,
@@ -14096,7 +14095,29 @@
   "Deaths_New_Per_Million": 0.69,
   "Deaths_Per_Cases": 0.006,
   "Deaths_Per_Cases_Last_Week": 0.001,
-  "Deaths_Per_Million": 488,
+  "Deaths_Per_Million": 488
+ },
+ {
+  "Cases": 467022,
+  "Cases_Last_Week": 28084,
+  "Cases_Last_Week_7Day_Percent": 13.4,
+  "Cases_Last_Week_Per_100000": 484.4,
+  "Cases_Last_Week_Per_Million": 4844,
+  "Cases_New": 4485,
+  "Cases_New_Per_Million": 773,
+  "Cases_Per_Million": 80556,
+  "Country": "Denmark",
+  "Date": "2021-11-24",
+  "Days_Since_2nd_Death": 619,
+  "Deaths": 2842,
+  "Deaths_Last_Week": 45,
+  "Deaths_Last_Week_7Day_Percent": -2.2,
+  "Deaths_Last_Week_Per_Million": 7.76,
+  "Deaths_New": 10,
+  "Deaths_New_Per_Million": 1.725,
+  "Deaths_Per_Cases": 0.006,
+  "Deaths_Per_Cases_Last_Week": 0.002,
+  "Deaths_Per_Million": 490,
   "Population": 5822763
  }
 ]
