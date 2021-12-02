@@ -14211,7 +14211,6 @@
   "Cases_New": 50745,
   "Cases_New_Per_Million": 611,
   "Cases_Per_Million": 70602,
-  "Country": "Germany",
   "Date": "2021-11-29",
   "Days_Since_2nd_Death": 630,
   "Deaths": 101350,
@@ -14222,7 +14221,29 @@
   "Deaths_New_Per_Million": 4.703,
   "Deaths_Per_Cases": 0.017,
   "Deaths_Per_Cases_Last_Week": 0.005,
-  "Deaths_Per_Million": 1222,
+  "Deaths_Per_Million": 1222
+ },
+ {
+  "Cases": 5923564,
+  "Cases_Last_Week": 406941,
+  "Cases_Last_Week_7Day_Percent": 9.5,
+  "Cases_Last_Week_Per_100000": 490.7,
+  "Cases_Last_Week_Per_Million": 4907,
+  "Cases_New": 68680,
+  "Cases_New_Per_Million": 828,
+  "Cases_Per_Million": 71430,
+  "Country": "Germany",
+  "Date": "2021-11-30",
+  "Days_Since_2nd_Death": 631,
+  "Deaths": 101794,
+  "Deaths_Last_Week": 2021,
+  "Deaths_Last_Week_7Day_Percent": 35.2,
+  "Deaths_Last_Week_Per_Million": 24.37,
+  "Deaths_New": 444,
+  "Deaths_New_Per_Million": 5.354,
+  "Deaths_Per_Cases": 0.017,
+  "Deaths_Per_Cases_Last_Week": 0.005,
+  "Deaths_Per_Million": 1227,
   "Population": 83149300
  }
 ]
