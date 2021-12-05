@@ -14274,7 +14274,6 @@
   "Cases_New": 53528,
   "Cases_New_Per_Million": 805,
   "Cases_Per_Million": 156224,
-  "Country": "United Kingdom",
   "Date": "2021-12-02",
   "Days_Since_2nd_Death": 635,
   "Deaths": 145728,
@@ -14285,7 +14284,29 @@
   "Deaths_New_Per_Million": 2.136,
   "Deaths_Per_Cases": 0.014,
   "Deaths_Per_Cases_Last_Week": 0.003,
-  "Deaths_Per_Million": 2191,
+  "Deaths_Per_Million": 2191
+ },
+ {
+  "Cases": 10438381,
+  "Cases_Last_Week": 312436,
+  "Cases_Last_Week_7Day_Percent": 1.3,
+  "Cases_Last_Week_Per_100000": 469.9,
+  "Cases_Last_Week_Per_Million": 4699,
+  "Cases_New": 51181,
+  "Cases_New_Per_Million": 769,
+  "Cases_Per_Million": 156994,
+  "Country": "United Kingdom",
+  "Date": "2021-12-03",
+  "Days_Since_2nd_Death": 636,
+  "Deaths": 145874,
+  "Deaths_Last_Week": 838,
+  "Deaths_Last_Week_7Day_Percent": -4.6,
+  "Deaths_Last_Week_Per_Million": 12.6,
+  "Deaths_New": 146,
+  "Deaths_New_Per_Million": 2.196,
+  "Deaths_Per_Cases": 0.014,
+  "Deaths_Per_Cases_Last_Week": 0.003,
+  "Deaths_Per_Million": 2193,
   "Population": 67545757
  }
 ]
