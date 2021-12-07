@@ -105,7 +105,7 @@ Sonneberg (Landkreis)	Thüringen	57044	8243	209	144502	3663	37.5	75.0
 Saalfeld-Rudolstadt (Landkreis)	Thüringen	102139	12553	365	122901	3573	68.2	81.8	18.3
 Saale-Holzland-Kreis (Landkreis)	Thüringen	82816	9281	161	112067	1944	33.3	83.3	
 Saale-Orla-Kreis (Landkreis)	Thüringen	79632	11614	227	145845	2850	0.0	0.0	
-Greiz (Landkreis)	Thüringen	96668	12716	266	131543	2751	50.0	100.0	
+Greiz (Landkreis)	Thüringen	96668	12716	266	131543	2751	40.0	100.0	
 Altenburger Land (Landkreis)	Thüringen	88356	11803	341	133584	3859	28.1	65.6	
 Hamburg (Kreisfreie Stadt)	Hamburg	1852478	118546	1903	63993	1027	12.3	82.0	
 Braunschweig (Kreisfreie Stadt)	Niedersachsen	248561	10282	203	41366	816	5.4	79.1	
@@ -118,7 +118,7 @@ Northeim (Landkreis)	Niedersachsen	131772	4404	69	33421	523	26.3	78.9
 Peine (Landkreis)	Niedersachsen	135844	7812	109	57507	802	21.4	100.0	
 Wolfenbüttel (Landkreis)	Niedersachsen	119361	4509	103	37776	862	25.0	68.8	
 Göttingen (Landkreis)	Niedersachsen	323900	12913	304	39867	938	19.7	88.5	37.7
-Hannover (Landkreis)	Niedersachsen	1155330	70115	1158	60688	1002	12.0	87.0	
+Hannover (Landkreis)	Niedersachsen	1155330	70115	1158	60688	1002	12.1	86.9	
 Diepholz (Landkreis)	Niedersachsen	218072	9856	116	45196	531	0.0	70.6	
 Hameln-Pyrmont (Landkreis)	Niedersachsen	148580	6415	104	43175	699	6.8	87.8	25.1
 Hildesheim (Landkreis)	Niedersachsen	275464	13221	314	47995	1139	20.7	82.9	
@@ -256,7 +256,7 @@ Landau in der Pfalz (Kreisfreie Stadt)	Rheinland-Pfalz	46685	3178	47	68073	1006	
 Ludwigshafen am Rhein (Kreisfreie Stadt)	Rheinland-Pfalz	172557	16219	351	93992	2034	13.1	90.7	
 Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217123	14597	228	67229	1050	14.1	88.9	
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53306	3507	49	65789	919	20.0	93.3	32.8
-Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40176	2151	68	53539	1692	6.2	75.0	
+Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40176	2151	68	53539	1692	18.8	93.8	
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50741	4821	100	95011	1970	29.2	100.0	
 Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	6992	105	83777	1258	12.8	78.7	12.4
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34001	1501	9	44145	264	11.1	77.8	
@@ -361,7 +361,7 @@ Schwandorf (Landkreis)	Bayern	148477	14072	206	94775	1387	46.4	85.7
 Tirschenreuth (Landkreis)	Bayern	71696	6993	271	97536	3779	28.6	71.4	
 Bamberg (Kreisfreie Stadt)	Bayern	76674	5423	113	70728	1473	29.6	85.2	23.9
 Bayreuth (Kreisfreie Stadt)	Bayern	74048	5198	120	70197	1620	17.2	87.9	
-Coburg (Kreisfreie Stadt)	Bayern	40842	3529	100	86406	2448	18.6	76.7	
+Coburg (Kreisfreie Stadt)	Bayern	40842	3529	100	86406	2448	18.6	74.4	
 Hof (Kreisfreie Stadt)	Bayern	45173	5028	131	111305	2899	11.8	88.2	
 Bamberg (Landkreis)	Bayern	147497	11728	169	79513	1145	31.2	68.8	
 Bayreuth (Landkreis)	Bayern	103679	7548	176	72801	1697	0.0	50.0	
@@ -386,7 +386,7 @@ Roth (Landkreis)	Bayern	127168	10158	190	79878	1494	0.0	80.0
 Weißenburg-Gunzenhausen (Landkreis)	Bayern	95117	8613	130	90551	1366	75.0	87.5	
 Aschaffenburg (Kreisfreie Stadt)	Bayern	70858	5758	128	81261	1806	15.7	98.0	
 Schweinfurt (Kreisfreie Stadt)	Bayern	53319	5479	106	102758	1988	27.5	92.8	
-Würzburg (Kreisfreie Stadt)	Bayern	126954	8138	137	64101	1079	18.6	86.0	
+Würzburg (Kreisfreie Stadt)	Bayern	126954	8138	137	64101	1079	19.4	86.0	
 Aschaffenburg (Landkreis)	Bayern	174658	12305	228	70451	1305	33.3	100.0	
 Bad Kissingen (Landkreis)	Bayern	103169	6845	131	66347	1269	8.3	80.6	
 Rhön-Grabfeld (Landkreis)	Bayern	79510	6532	108	82153	1358	15.7	87.9	
