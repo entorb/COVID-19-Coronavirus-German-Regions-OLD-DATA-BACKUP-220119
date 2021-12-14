@@ -14463,7 +14463,6 @@
   "Cases_New": 17760,
   "Cases_New_Per_Million": 1030,
   "Cases_Per_Million": 168634,
-  "Country": "Netherlands",
   "Date": "2021-12-11",
   "Days_Since_2nd_Death": 643,
   "Deaths": 20530,
@@ -14474,7 +14473,29 @@
   "Deaths_New_Per_Million": 4.062,
   "Deaths_Per_Cases": 0.007,
   "Deaths_Per_Cases_Last_Week": 0.003,
-  "Deaths_Per_Million": 1191,
+  "Deaths_Per_Million": 1191
+ },
+ {
+  "Cases": 2922378,
+  "Cases_Last_Week": 128851,
+  "Cases_Last_Week_7Day_Percent": -15.7,
+  "Cases_Last_Week_Per_100000": 747.7,
+  "Cases_Last_Week_Per_Million": 7477,
+  "Cases_New": 16636,
+  "Cases_New_Per_Million": 965,
+  "Cases_Per_Million": 169599,
+  "Country": "Netherlands",
+  "Date": "2021-12-12",
+  "Days_Since_2nd_Death": 644,
+  "Deaths": 20568,
+  "Deaths_Last_Week": 450,
+  "Deaths_Last_Week_7Day_Percent": 27.8,
+  "Deaths_Last_Week_Per_Million": 26.12,
+  "Deaths_New": 38,
+  "Deaths_New_Per_Million": 2.205,
+  "Deaths_Per_Cases": 0.007,
+  "Deaths_Per_Cases_Last_Week": 0.003,
+  "Deaths_Per_Million": 1193,
   "Population": 17424978
  }
 ]
