@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	131172	8849	136	67461	1036	10.8	78.4
 Saarlouis (Landkreis)	Saarland	193732	14680	179	75774	923	22.8	73.7	
 Saarpfalz-Kreis (Landkreis)	Saarland	141656	8585	130	60604	917	13.5	88.4	
 St. Wendel (Landkreis)	Saarland	86458	5025	119	58120	1376	7.1	100.0	
-Berlin Reinickendorf (Bezirk)	Berlin	259720	23782	345	91567	1328	22.1	89.7	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	24851	338	78586	1068	22.1	89.7	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	17802	236	65210	864	22.1	89.7	
-Berlin Pankow (Bezirk)	Berlin	404187	27540	236	68136	583	22.1	89.7	
-Berlin Neukölln (Bezirk)	Berlin	318509	34041	451	106876	1415	22.1	89.7	
-Berlin Lichtenberg (Bezirk)	Berlin	292005	20548	289	70368	989	22.1	89.7	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	17804	266	64960	970	22.1	89.7	
-Berlin Spandau (Bezirk)	Berlin	239374	22766	280	95106	1169	22.1	89.7	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	20369	442	69777	1514	22.1	89.7	
-Berlin Mitte (Bezirk)	Berlin	374581	36154	369	96518	985	22.1	89.7	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	25660	182	91902	651	22.1	89.7	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	28708	492	84114	1441	22.1	89.7	
+Berlin Reinickendorf (Bezirk)	Berlin	259720	23782	345	91567	1328	22.0	89.9	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	24851	338	78586	1068	22.0	89.9	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	17802	236	65210	864	22.0	89.9	
+Berlin Pankow (Bezirk)	Berlin	404187	27540	236	68136	583	22.0	89.9	
+Berlin Neukölln (Bezirk)	Berlin	318509	34041	451	106876	1415	22.0	89.9	
+Berlin Lichtenberg (Bezirk)	Berlin	292005	20548	289	70368	989	22.0	89.9	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	17804	266	64960	970	22.0	89.9	
+Berlin Spandau (Bezirk)	Berlin	239374	22766	280	95106	1169	22.0	89.9	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	20369	442	69777	1514	22.0	89.9	
+Berlin Mitte (Bezirk)	Berlin	374581	36154	369	96518	985	22.0	89.9	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	25660	182	91902	651	22.0	89.9	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	28708	492	84114	1441	22.0	89.9	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72040	4450	108	61771	1499	20.0	87.7	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98693	11726	241	118812	2441	27.3	92.0	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	57015	4530	126	79452	2209	57.1	85.7	
@@ -105,7 +105,7 @@ Sonneberg (Landkreis)	Thüringen	57044	9004	223	157843	3909	50.0	75.0	10.4
 Saalfeld-Rudolstadt (Landkreis)	Thüringen	102139	14022	373	137283	3651	63.6	77.3	
 Saale-Holzland-Kreis (Landkreis)	Thüringen	82816	10266	166	123961	2004	25.0	87.5	
 Saale-Orla-Kreis (Landkreis)	Thüringen	79632	12678	236	159207	2963	75.0	100.0	
-Greiz (Landkreis)	Thüringen	96668	13548	269	140149	2782	30.0	80.0	41.8
+Greiz (Landkreis)	Thüringen	96668	13548	269	140149	2782	30.0	90.0	41.8
 Altenburger Land (Landkreis)	Thüringen	88356	12532	348	141835	3938	15.6	65.6	
 Hamburg (Kreisfreie Stadt)	Hamburg	1852478	123494	1926	66664	1039	12.0	79.8	
 Braunschweig (Kreisfreie Stadt)	Niedersachsen	248561	10754	212	43265	852	6.2	79.8	
@@ -302,7 +302,7 @@ Ortenaukreis (Landkreis)	Baden-Württemberg	432580	37915	650	87648	1502	26.2	81.
 Rottweil (Landkreis)	Baden-Württemberg	140166	15356	210	109555	1498	72.7	100.0	
 Schwarzwald-Baar-Kreis (Landkreis)	Baden-Württemberg	212872	22033	267	103503	1254	35.5	98.4	
 Tuttlingen (Landkreis)	Baden-Württemberg	141682	14890	181	105094	1277	50.0	91.7	
-Konstanz (Landkreis)	Baden-Württemberg	286876	20551	324	71637	1129	13.3	78.9	
+Konstanz (Landkreis)	Baden-Württemberg	286876	20551	324	71637	1129	13.3	77.8	
 Lörrach (Landkreis)	Baden-Württemberg	228842	17726	335	77459	1463	12.5	68.8	
 Waldshut (Landkreis)	Baden-Württemberg	171237	12906	245	75369	1430	40.0	100.0	
 Reutlingen (Landkreis)	Baden-Württemberg	287497	25949	337	90258	1172	18.2	81.8	
