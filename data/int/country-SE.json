@@ -14526,7 +14526,6 @@
   "Cases_New": 9472,
   "Cases_New_Per_Million": 930,
   "Cases_Per_Million": 121640,
-  "Country": "Sweden",
   "Date": "2021-12-14",
   "Days_Since_2nd_Death": 642,
   "Deaths": 15204,
@@ -14537,7 +14536,29 @@
   "Deaths_New_Per_Million": 1.277,
   "Deaths_Per_Cases": 0.012,
   "Deaths_Per_Cases_Last_Week": 0.001,
-  "Deaths_Per_Million": 1493,
+  "Deaths_Per_Million": 1493
+ },
+ {
+  "Cases": 1242733,
+  "Cases_Last_Week": 19841,
+  "Cases_Last_Week_7Day_Percent": 28.9,
+  "Cases_Last_Week_Per_100000": 194.8,
+  "Cases_Last_Week_Per_Million": 1948,
+  "Cases_New": 4044,
+  "Cases_New_Per_Million": 397,
+  "Cases_Per_Million": 122037,
+  "Country": "Sweden",
+  "Date": "2021-12-15",
+  "Days_Since_2nd_Death": 643,
+  "Deaths": 15221,
+  "Deaths_Last_Week": 37,
+  "Deaths_Last_Week_7Day_Percent": 60.9,
+  "Deaths_Last_Week_Per_Million": 3.63,
+  "Deaths_New": 17,
+  "Deaths_New_Per_Million": 1.669,
+  "Deaths_Per_Cases": 0.012,
+  "Deaths_Per_Cases_Last_Week": 0.002,
+  "Deaths_Per_Million": 1494,
   "Population": 10333456
  }
 ]
