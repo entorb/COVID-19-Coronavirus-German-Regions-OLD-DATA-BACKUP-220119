@@ -14631,7 +14631,6 @@
   "Cases_New": 0,
   "Cases_New_Per_Million": 0,
   "Cases_Per_Million": 116761,
-  "Country": "Spain",
   "Date": "2021-12-19",
   "Days_Since_2nd_Death": 655,
   "Deaths": 88708,
@@ -14642,7 +14641,29 @@
   "Deaths_New_Per_Million": 0.0,
   "Deaths_Per_Cases": 0.016,
   "Deaths_Per_Cases_Last_Week": 0.002,
-  "Deaths_Per_Million": 1898,
+  "Deaths_Per_Million": 1898
+ },
+ {
+  "Cases": 5535231,
+  "Cases_Last_Week": 195239,
+  "Cases_Last_Week_7Day_Percent": 42.5,
+  "Cases_Last_Week_Per_100000": 417.8,
+  "Cases_Last_Week_Per_Million": 4178,
+  "Cases_New": 79704,
+  "Cases_New_Per_Million": 1705,
+  "Cases_Per_Million": 118467,
+  "Country": "Spain",
+  "Date": "2021-12-20",
+  "Days_Since_2nd_Death": 656,
+  "Deaths": 88793,
+  "Deaths_Last_Week": 309,
+  "Deaths_Last_Week_7Day_Percent": -4.9,
+  "Deaths_Last_Week_Per_Million": 6.61,
+  "Deaths_New": 85,
+  "Deaths_New_Per_Million": 1.819,
+  "Deaths_Per_Cases": 0.016,
+  "Deaths_Per_Cases_Last_Week": 0.002,
+  "Deaths_Per_Million": 1900,
   "Population": 46733038
  }
 ]
