@@ -20,18 +20,18 @@ Neunkirchen (Landkreis)	Saarland	131172	9549	154	72797	1174	5.4	78.4
 Saarlouis (Landkreis)	Saarland	193732	15626	198	80657	1022	21.1	70.2	
 Saarpfalz-Kreis (Landkreis)	Saarland	141656	9478	144	66908	1016	14.8	93.5	
 St. Wendel (Landkreis)	Saarland	86458	5319	120	61521	1387	14.3	57.1	
-Berlin Reinickendorf (Bezirk)	Berlin	259720	25862	354	99576	1363	17.7	88.0	
-Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	26667	345	84329	1091	17.7	88.0	
-Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	20045	243	73427	890	17.7	88.0	
-Berlin Pankow (Bezirk)	Berlin	404187	30737	241	76046	596	17.7	88.0	
-Berlin Neukölln (Bezirk)	Berlin	318509	36642	459	115042	1441	17.7	88.0	
-Berlin Lichtenberg (Bezirk)	Berlin	292005	22677	294	77659	1006	17.7	88.0	
-Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	19897	280	72596	1021	17.7	88.0	
-Berlin Spandau (Bezirk)	Berlin	239374	24429	293	102053	1224	17.7	88.0	
-Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	22083	445	75648	1524	17.7	88.0	
-Berlin Mitte (Bezirk)	Berlin	374581	39326	377	104986	1006	17.7	88.0	
-Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	28281	187	101289	669	17.7	88.0	
-Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	31108	492	91146	1441	17.7	88.0	
+Berlin Reinickendorf (Bezirk)	Berlin	259720	25862	354	99576	1363	17.7	88.7	
+Berlin Charlottenburg-Wilmersdorf (Bezirk)	Berlin	316223	26667	345	84329	1091	17.7	88.7	
+Berlin Treptow-Köpenick (Bezirk)	Berlin	272992	20045	243	73427	890	17.7	88.7	
+Berlin Pankow (Bezirk)	Berlin	404187	30737	241	76046	596	17.7	88.7	
+Berlin Neukölln (Bezirk)	Berlin	318509	36642	459	115042	1441	17.7	88.7	
+Berlin Lichtenberg (Bezirk)	Berlin	292005	22677	294	77659	1006	17.7	88.7	
+Berlin Marzahn-Hellersdorf (Bezirk)	Berlin	274076	19897	280	72596	1021	17.7	88.7	
+Berlin Spandau (Bezirk)	Berlin	239374	24429	293	102053	1224	17.7	88.7	
+Berlin Steglitz-Zehlendorf (Bezirk)	Berlin	291915	22083	445	75648	1524	17.7	88.7	
+Berlin Mitte (Bezirk)	Berlin	374581	39326	377	104986	1006	17.7	88.7	
+Berlin Friedrichshain-Kreuzberg (Bezirk)	Berlin	279210	28281	187	101289	669	17.7	88.7	
+Berlin Tempelhof-Schöneberg (Bezirk)	Berlin	341296	31108	492	91146	1441	17.7	88.7	
 Brandenburg an der Havel (Kreisfreie Stadt)	Brandenburg	72040	5560	125	77179	1735	15.4	75.4	
 Cottbus (Kreisfreie Stadt)	Brandenburg	98693	13860	253	140435	2563	23.0	83.9	
 Frankfurt (Oder) (Kreisfreie Stadt)	Brandenburg	57015	5211	147	91397	2578	42.9	71.4	
@@ -73,7 +73,7 @@ Leipzig (Landkreis)	Sachsen	258386	36548	431	141447	1668	13.8	72.4
 Nordsachsen (Landkreis)	Sachsen	197444	28494	480	144314	2431	23.2	71.4	
 Dessau-Roßlau (Kreisfreie Stadt)	Sachsen-Anhalt	79354	7889	131	99415	1650	16.7	72.2	
 Halle (Saale) (Kreisfreie Stadt)	Sachsen-Anhalt	237865	23342	433	98131	1820	15.1	88.9	
-Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	17304	192	73392	814	11.6	86.8	
+Magdeburg (Kreisfreie Stadt)	Sachsen-Anhalt	235775	17304	192	73392	814	12.2	87.8	
 Altmarkkreis Salzwedel (Landkreis)	Sachsen-Anhalt	82687	6890	117	83326	1414	26.7	80.0	
 Anhalt-Bitterfeld (Landkreis)	Sachsen-Anhalt	157217	18036	232	114720	1475	41.9	90.3	
 Börde (Landkreis)	Sachsen-Anhalt	170567	14990	162	87883	949	35.7	92.9	
@@ -258,7 +258,7 @@ Mainz (Kreisfreie Stadt)	Rheinland-Pfalz	217123	15856	233	73027	1073	14.0	89.7
 Neustadt an der Weinstraße (Kreisfreie Stadt)	Rheinland-Pfalz	53306	4081	51	76557	956	26.7	86.7	
 Pirmasens (Kreisfreie Stadt)	Rheinland-Pfalz	40176	2533	71	63047	1767	18.8	68.8	
 Speyer (Kreisfreie Stadt)	Rheinland-Pfalz	50741	5507	104	108531	2049	28.6	85.7	
-Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	7788	111	93315	1329	16.0	92.0	
+Worms (Kreisfreie Stadt)	Rheinland-Pfalz	83459	7788	111	93315	1329	8.0	90.0	
 Zweibrücken (Kreisfreie Stadt)	Rheinland-Pfalz	34001	1806	9	53116	264	0.0	55.6	
 Alzey-Worms (Landkreis)	Rheinland-Pfalz	130715	9500	154	72677	1178	16.7	100.0	
 Bad Dürkheim (Landkreis)	Rheinland-Pfalz	133004	8303	184	62426	1383	33.3	75.0	
@@ -361,7 +361,7 @@ Schwandorf (Landkreis)	Bayern	148477	15628	219	105255	1474	11.5	65.4
 Tirschenreuth (Landkreis)	Bayern	71696	7415	276	103422	3849	41.7	91.7	
 Bamberg (Kreisfreie Stadt)	Bayern	76674	6236	119	81331	1552	17.6	76.5	
 Bayreuth (Kreisfreie Stadt)	Bayern	74048	5749	128	77638	1728	9.5	88.9	
-Coburg (Kreisfreie Stadt)	Bayern	40842	4117	104	100803	2546	20.9	74.4	
+Coburg (Kreisfreie Stadt)	Bayern	40842	4117	104	100803	2546	20.9	76.7	
 Hof (Kreisfreie Stadt)	Bayern	45173	5497	139	121687	3077	23.5	88.2	
 Bamberg (Landkreis)	Bayern	147497	13843	184	93852	1247	6.2	62.5	
 Bayreuth (Landkreis)	Bayern	103679	8280	186	79861	1793	0.0	83.3	
