@@ -14988,7 +14988,6 @@
   "Cases_New": 623308,
   "Cases_New_Per_Million": 1905,
   "Cases_Per_Million": 176364,
-  "Country": "United States",
   "Date": "2022-01-05",
   "Days_Since_2nd_Death": 674,
   "Deaths": 832118,
@@ -14999,7 +14998,29 @@
   "Deaths_New_Per_Million": 6.07,
   "Deaths_Per_Cases": 0.014,
   "Deaths_Per_Cases_Last_Week": 0.002,
-  "Deaths_Per_Million": 2543,
+  "Deaths_Per_Million": 2543
+ },
+ {
+  "Cases": 58487697,
+  "Cases_Last_Week": 4217830,
+  "Cases_Last_Week_7Day_Percent": 72.5,
+  "Cases_Last_Week_Per_100000": 1289.1,
+  "Cases_Last_Week_Per_Million": 12891,
+  "Cases_New": 786824,
+  "Cases_New_Per_Million": 2404,
+  "Cases_Per_Million": 178769,
+  "Country": "United States",
+  "Date": "2022-01-06",
+  "Days_Since_2nd_Death": 675,
+  "Deaths": 833988,
+  "Deaths_Last_Week": 8795,
+  "Deaths_Last_Week_7Day_Percent": 3.5,
+  "Deaths_Last_Week_Per_Million": 26.88,
+  "Deaths_New": 1870,
+  "Deaths_New_Per_Million": 5.716,
+  "Deaths_Per_Cases": 0.014,
+  "Deaths_Per_Cases_Last_Week": 0.002,
+  "Deaths_Per_Million": 2549,
   "Population": 328239523
  }
 ]
