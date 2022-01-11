@@ -15051,7 +15051,6 @@
   "Cases_New": 6696,
   "Cases_New_Per_Million": 630,
   "Cases_Per_Million": 237553,
-  "Country": "Czechia",
   "Date": "2022-01-08",
   "Days_Since_2nd_Death": 655,
   "Deaths": 36558,
@@ -15062,7 +15061,29 @@
   "Deaths_New_Per_Million": 4.8,
   "Deaths_Per_Cases": 0.014,
   "Deaths_Per_Cases_Last_Week": 0.009,
-  "Deaths_Per_Million": 3440,
+  "Deaths_Per_Million": 3440
+ },
+ {
+  "Cases": 2528146,
+  "Cases_Last_Week": 46314,
+  "Cases_Last_Week_7Day_Percent": 28.3,
+  "Cases_Last_Week_Per_100000": 435.8,
+  "Cases_Last_Week_Per_Million": 4358,
+  "Cases_New": 3975,
+  "Cases_New_Per_Million": 374,
+  "Cases_Per_Million": 237927,
+  "Country": "Czechia",
+  "Date": "2022-01-09",
+  "Days_Since_2nd_Death": 656,
+  "Deaths": 36590,
+  "Deaths_Last_Week": 371,
+  "Deaths_Last_Week_7Day_Percent": -21.1,
+  "Deaths_Last_Week_Per_Million": 34.92,
+  "Deaths_New": 32,
+  "Deaths_New_Per_Million": 3.012,
+  "Deaths_Per_Cases": 0.014,
+  "Deaths_Per_Cases_Last_Week": 0.008,
+  "Deaths_Per_Million": 3443,
   "Population": 10649800
  }
 ]
